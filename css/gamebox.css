@@ -7,7 +7,7 @@
 .smlextend3{margin-bottom: 5%;}
 button {margin-top: 2%;}
 
-
+.img1 {margin-top: 50%;margin-right:5%; }
 .centerbox{text-align: center;}
 .blueback{background-color: #007ece;}
 .backgroundtop{background-image: url("/Images/hex5.jpg");background-size: cover;background-repeat: no-repeat;width: 100%;#height: 100%;z-index: -2;}
@@ -18,9 +18,9 @@ button {margin-top: 2%;}
 .infobox{color: white;margin-top: 5%;#font-size: 7em;text-align: center;margin-bottom: 5%;}
 .white {color: white;text-align: center;}
 .enlarge{font-size: 7em;}
-.img1 {margin-top: 50%;margin-right:5%; }
+
 .enlarge2{font-size: 1.5em;}
-.whitehr {background-color: transparent;height: 2px;border: white 0px solid;}
+
 .fa-quote-left{color: dodgerblue;}
 .fa-quote-right{color: dodgerblue;}
 .backgroundtop1{background-color:#007ece;background-size: cover;background-repeat: repeat-y;}
@@ -75,7 +75,7 @@ ul {list-style: none;font-size: 1.5em;color: black;text-align: center;}
 @media (max-width: 1050px){ .imgcir {width: 100%;height: 70%}}
 @media (max-width: 1050px){ img {margin-left: 15%;margin-top: 0%;}}
 @media (max-width: 1050px){ .whitehr {background-color: white;}}
-
+.whitehr {background-color: transparent;height: 2px;border: white 0px solid;}
 
 
 
